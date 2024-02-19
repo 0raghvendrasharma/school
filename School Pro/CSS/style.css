@@ -396,7 +396,7 @@ header nav ul.action-menu .nav-item .nav-link {
 }
 
 .unique-heading {
-  font-family: 'Marcellus', serif;
+   font-family: 'Marcellus', serif; /* heading for different sections */
 }
 
 
